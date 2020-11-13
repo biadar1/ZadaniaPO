@@ -1,0 +1,13 @@
+C:\Users\Biały\Desktop\C sharp\Zadania z rozdiału 3\Zadania z rozdiału 3\obj\Debug\netcoreapp3.1\Zadania z rozdiału 3.csprojAssemblyReference.cache
+C:\Users\Biały\Desktop\C sharp\Zadania z rozdiału 3\Zadania z rozdiału 3\obj\Debug\netcoreapp3.1\Zadania z rozdiału 3.AssemblyInfoInputs.cache
+C:\Users\Biały\Desktop\C sharp\Zadania z rozdiału 3\Zadania z rozdiału 3\obj\Debug\netcoreapp3.1\Zadania z rozdiału 3.AssemblyInfo.cs
+C:\Users\Biały\Desktop\C sharp\Zadania z rozdiału 3\Zadania z rozdiału 3\obj\Debug\netcoreapp3.1\Zadania z rozdiału 3.csproj.CoreCompileInputs.cache
+C:\Users\Biały\Desktop\C sharp\Zadania z rozdiału 3\Zadania z rozdiału 3\bin\Debug\netcoreapp3.1\Zadania z rozdiału 3.exe
+C:\Users\Biały\Desktop\C sharp\Zadania z rozdiału 3\Zadania z rozdiału 3\bin\Debug\netcoreapp3.1\Zadania z rozdiału 3.deps.json
+C:\Users\Biały\Desktop\C sharp\Zadania z rozdiału 3\Zadania z rozdiału 3\bin\Debug\netcoreapp3.1\Zadania z rozdiału 3.runtimeconfig.json
+C:\Users\Biały\Desktop\C sharp\Zadania z rozdiału 3\Zadania z rozdiału 3\bin\Debug\netcoreapp3.1\Zadania z rozdiału 3.runtimeconfig.dev.json
+C:\Users\Biały\Desktop\C sharp\Zadania z rozdiału 3\Zadania z rozdiału 3\bin\Debug\netcoreapp3.1\Zadania z rozdiału 3.dll
+C:\Users\Biały\Desktop\C sharp\Zadania z rozdiału 3\Zadania z rozdiału 3\bin\Debug\netcoreapp3.1\Zadania z rozdiału 3.pdb
+C:\Users\Biały\Desktop\C sharp\Zadania z rozdiału 3\Zadania z rozdiału 3\obj\Debug\netcoreapp3.1\Zadania z rozdiału 3.dll
+C:\Users\Biały\Desktop\C sharp\Zadania z rozdiału 3\Zadania z rozdiału 3\obj\Debug\netcoreapp3.1\Zadania z rozdiału 3.pdb
+C:\Users\Biały\Desktop\C sharp\Zadania z rozdiału 3\Zadania z rozdiału 3\obj\Debug\netcoreapp3.1\Zadania z rozdiału 3.genruntimeconfig.cache
