@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g+HLQz3p0VjZQBhcYjkb9i3VU2firpj8XA2OFzpTKNuakG6hVLki5SUn7uNAcjnn6iO7NqsVOqzmOZYReML6AA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Biały\\Desktop\\C sharp\\Zadanie z rozdziału 4\\Zadanie z rozdziału 4\\Zadanie z rozdziału 4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Biały\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

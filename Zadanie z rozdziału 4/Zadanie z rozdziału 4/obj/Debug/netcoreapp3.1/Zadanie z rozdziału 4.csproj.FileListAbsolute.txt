@@ -1,0 +1,13 @@
+C:\Users\Biały\Desktop\C sharp\Zadanie z rozdziału 4\Zadanie z rozdziału 4\bin\Debug\netcoreapp3.1\Zadanie z rozdziału 4.exe
+C:\Users\Biały\Desktop\C sharp\Zadanie z rozdziału 4\Zadanie z rozdziału 4\bin\Debug\netcoreapp3.1\Zadanie z rozdziału 4.deps.json
+C:\Users\Biały\Desktop\C sharp\Zadanie z rozdziału 4\Zadanie z rozdziału 4\bin\Debug\netcoreapp3.1\Zadanie z rozdziału 4.runtimeconfig.json
+C:\Users\Biały\Desktop\C sharp\Zadanie z rozdziału 4\Zadanie z rozdziału 4\bin\Debug\netcoreapp3.1\Zadanie z rozdziału 4.runtimeconfig.dev.json
+C:\Users\Biały\Desktop\C sharp\Zadanie z rozdziału 4\Zadanie z rozdziału 4\bin\Debug\netcoreapp3.1\Zadanie z rozdziału 4.dll
+C:\Users\Biały\Desktop\C sharp\Zadanie z rozdziału 4\Zadanie z rozdziału 4\bin\Debug\netcoreapp3.1\Zadanie z rozdziału 4.pdb
+C:\Users\Biały\Desktop\C sharp\Zadanie z rozdziału 4\Zadanie z rozdziału 4\obj\Debug\netcoreapp3.1\Zadanie z rozdziału 4.csprojAssemblyReference.cache
+C:\Users\Biały\Desktop\C sharp\Zadanie z rozdziału 4\Zadanie z rozdziału 4\obj\Debug\netcoreapp3.1\Zadanie z rozdziału 4.AssemblyInfoInputs.cache
+C:\Users\Biały\Desktop\C sharp\Zadanie z rozdziału 4\Zadanie z rozdziału 4\obj\Debug\netcoreapp3.1\Zadanie z rozdziału 4.AssemblyInfo.cs
+C:\Users\Biały\Desktop\C sharp\Zadanie z rozdziału 4\Zadanie z rozdziału 4\obj\Debug\netcoreapp3.1\Zadanie z rozdziału 4.csproj.CoreCompileInputs.cache
+C:\Users\Biały\Desktop\C sharp\Zadanie z rozdziału 4\Zadanie z rozdziału 4\obj\Debug\netcoreapp3.1\Zadanie z rozdziału 4.dll
+C:\Users\Biały\Desktop\C sharp\Zadanie z rozdziału 4\Zadanie z rozdziału 4\obj\Debug\netcoreapp3.1\Zadanie z rozdziału 4.pdb
+C:\Users\Biały\Desktop\C sharp\Zadanie z rozdziału 4\Zadanie z rozdziału 4\obj\Debug\netcoreapp3.1\Zadanie z rozdziału 4.genruntimeconfig.cache
