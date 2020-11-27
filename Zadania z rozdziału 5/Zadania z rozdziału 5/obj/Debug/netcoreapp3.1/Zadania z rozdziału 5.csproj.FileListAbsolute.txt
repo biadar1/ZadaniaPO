@@ -1,0 +1,13 @@
+C:\Users\Bialy\source\repos\C sharp\Zadania z rozdziału 5\Zadania z rozdziału 5\bin\Debug\netcoreapp3.1\Zadania z rozdziału 5.exe
+C:\Users\Bialy\source\repos\C sharp\Zadania z rozdziału 5\Zadania z rozdziału 5\bin\Debug\netcoreapp3.1\Zadania z rozdziału 5.deps.json
+C:\Users\Bialy\source\repos\C sharp\Zadania z rozdziału 5\Zadania z rozdziału 5\bin\Debug\netcoreapp3.1\Zadania z rozdziału 5.runtimeconfig.json
+C:\Users\Bialy\source\repos\C sharp\Zadania z rozdziału 5\Zadania z rozdziału 5\bin\Debug\netcoreapp3.1\Zadania z rozdziału 5.runtimeconfig.dev.json
+C:\Users\Bialy\source\repos\C sharp\Zadania z rozdziału 5\Zadania z rozdziału 5\bin\Debug\netcoreapp3.1\Zadania z rozdziału 5.dll
+C:\Users\Bialy\source\repos\C sharp\Zadania z rozdziału 5\Zadania z rozdziału 5\bin\Debug\netcoreapp3.1\Zadania z rozdziału 5.pdb
+C:\Users\Bialy\source\repos\C sharp\Zadania z rozdziału 5\Zadania z rozdziału 5\obj\Debug\netcoreapp3.1\Zadania z rozdziału 5.csprojAssemblyReference.cache
+C:\Users\Bialy\source\repos\C sharp\Zadania z rozdziału 5\Zadania z rozdziału 5\obj\Debug\netcoreapp3.1\Zadania z rozdziału 5.AssemblyInfoInputs.cache
+C:\Users\Bialy\source\repos\C sharp\Zadania z rozdziału 5\Zadania z rozdziału 5\obj\Debug\netcoreapp3.1\Zadania z rozdziału 5.AssemblyInfo.cs
+C:\Users\Bialy\source\repos\C sharp\Zadania z rozdziału 5\Zadania z rozdziału 5\obj\Debug\netcoreapp3.1\Zadania z rozdziału 5.csproj.CoreCompileInputs.cache
+C:\Users\Bialy\source\repos\C sharp\Zadania z rozdziału 5\Zadania z rozdziału 5\obj\Debug\netcoreapp3.1\Zadania z rozdziału 5.dll
+C:\Users\Bialy\source\repos\C sharp\Zadania z rozdziału 5\Zadania z rozdziału 5\obj\Debug\netcoreapp3.1\Zadania z rozdziału 5.pdb
+C:\Users\Bialy\source\repos\C sharp\Zadania z rozdziału 5\Zadania z rozdziału 5\obj\Debug\netcoreapp3.1\Zadania z rozdziału 5.genruntimeconfig.cache
