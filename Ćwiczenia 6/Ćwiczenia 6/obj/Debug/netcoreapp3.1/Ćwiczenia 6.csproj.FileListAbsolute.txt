@@ -1,0 +1,13 @@
+C:\Users\Bialy\source\repos\C sharp\Ćwiczenia 6\Ćwiczenia 6\bin\Debug\netcoreapp3.1\Ćwiczenia 6.exe
+C:\Users\Bialy\source\repos\C sharp\Ćwiczenia 6\Ćwiczenia 6\bin\Debug\netcoreapp3.1\Ćwiczenia 6.deps.json
+C:\Users\Bialy\source\repos\C sharp\Ćwiczenia 6\Ćwiczenia 6\bin\Debug\netcoreapp3.1\Ćwiczenia 6.runtimeconfig.json
+C:\Users\Bialy\source\repos\C sharp\Ćwiczenia 6\Ćwiczenia 6\bin\Debug\netcoreapp3.1\Ćwiczenia 6.runtimeconfig.dev.json
+C:\Users\Bialy\source\repos\C sharp\Ćwiczenia 6\Ćwiczenia 6\bin\Debug\netcoreapp3.1\Ćwiczenia 6.dll
+C:\Users\Bialy\source\repos\C sharp\Ćwiczenia 6\Ćwiczenia 6\bin\Debug\netcoreapp3.1\Ćwiczenia 6.pdb
+C:\Users\Bialy\source\repos\C sharp\Ćwiczenia 6\Ćwiczenia 6\obj\Debug\netcoreapp3.1\Ćwiczenia 6.csprojAssemblyReference.cache
+C:\Users\Bialy\source\repos\C sharp\Ćwiczenia 6\Ćwiczenia 6\obj\Debug\netcoreapp3.1\Ćwiczenia 6.AssemblyInfoInputs.cache
+C:\Users\Bialy\source\repos\C sharp\Ćwiczenia 6\Ćwiczenia 6\obj\Debug\netcoreapp3.1\Ćwiczenia 6.AssemblyInfo.cs
+C:\Users\Bialy\source\repos\C sharp\Ćwiczenia 6\Ćwiczenia 6\obj\Debug\netcoreapp3.1\Ćwiczenia 6.csproj.CoreCompileInputs.cache
+C:\Users\Bialy\source\repos\C sharp\Ćwiczenia 6\Ćwiczenia 6\obj\Debug\netcoreapp3.1\Ćwiczenia 6.dll
+C:\Users\Bialy\source\repos\C sharp\Ćwiczenia 6\Ćwiczenia 6\obj\Debug\netcoreapp3.1\Ćwiczenia 6.pdb
+C:\Users\Bialy\source\repos\C sharp\Ćwiczenia 6\Ćwiczenia 6\obj\Debug\netcoreapp3.1\Ćwiczenia 6.genruntimeconfig.cache
